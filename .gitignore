@@ -1,0 +1,9 @@
+
+Library/*
+Temp/*
+
+*.csproj
+
+CloudBrain.sln
+
+CloudBrain.userprefs
